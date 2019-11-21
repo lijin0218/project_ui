@@ -3,7 +3,7 @@
     <el-container>
       <el-aside class="app-side app-side-left"
                 :class="isCollapse ? 'app-side-collapsed' : 'app-side-expanded'">
-       <div class="projectnamecss">系统架构测试</div>
+       <div class="projectnamecss">前端系统架构测试</div>
         <div>
           <!-- 导航菜单 -->
           <el-menu default-active="/user"
